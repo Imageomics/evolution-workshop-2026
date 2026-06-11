@@ -1,0 +1,51 @@
+[project]
+site_name = "Designing for Discovery: Shaping Imageomics Tools for Biologists"
+site_url = "https://imageomics.github.io/evolution-workshop-2026/"
+site_description = "Hands-on tutorials for Imageomics tools presented at the Evolution 2026 workshop in Cleveland, OH."
+
+repo_url = "https://github.com/Imageomics/evolution-workshop-2026"
+repo_name = "Imageomics/evolution-workshop-2026"
+
+copyright = "Copyright &copy; 2026 Imageomics Institute"
+
+extra_css = ["stylesheets/extra.css"]
+
+nav = [
+    { "Home" = "index.md" },
+]
+
+[project.theme]
+favicon = "assets/tools-logo_black.svg"
+logo = "assets/tools-logo_black.svg"
+language = "en"
+features = [
+    "content.code.copy",
+    "content.code.select",
+    "navigation.footer",
+    "navigation.instant",
+    "navigation.top",
+    "navigation.tracking",
+    "search.highlight",
+    "toc.integrate",
+]
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.highlight]
+anchor_linenums = true
+[project.markdown_extensions.pymdownx.superfences]
+[project.markdown_extensions.pymdownx.tabbed]
+alternate_style = true
