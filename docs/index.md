@@ -2,7 +2,7 @@
 
 A hands-on workshop at [Evolution 2026](https://www.evolutionmeeting.org/) in Cleveland, OH, hosted by the [Imageomics Institute](https://imageomics.osu.edu/).
 
-- **Date:** Saturday, June 20, 2026, 1:00–5:00 PM
+- **Date:** Saturday, June 20, 2026, 1:00-5:00 PM
 - **Location:** Cleveland, OH (Evolution 2026)
 - **Program:** [Official Evolution 2026 program listing](https://www.xcdsystem.com/evolution/program/o5SCPR5/index.cfm)
 
@@ -10,7 +10,7 @@ A hands-on workshop at [Evolution 2026](https://www.evolutionmeeting.org/) in Cl
 
 ## About
 
-Imageomics is an emerging interdisciplinary field at the crossroads of machine learning (ML), computer vision (CV), and biological sciences. It leverages visual data–from microscopic images of unicellular organisms to videos of megafauna–to extract and analyze biological traits. By grounding ML models in existing scientific knowledge, the emerging field of imageomics aims to make traits computable from images and videos, facilitating insights into the evolution and function of living organisms. 
+Imageomics is an emerging interdisciplinary field at the crossroads of machine learning (ML), computer vision (CV), and biological sciences. It leverages visual data, from microscopic images of unicellular organisms to videos of megafauna, to extract and analyze biological traits. By grounding ML models in existing scientific knowledge, the emerging field of imageomics aims to make traits computable from images and videos, facilitating insights into the evolution and function of living organisms. 
 
 This half-day workshop focuses on making imageomics tools more accessible and usable for biologists and will be centered on co-development, where tool refinement and new use cases emerge through active partnership with biologists. During the workshop, selected Imageomics Institute tools for taxonomic identification and trait segmentation, exploration, and classification will be demonstrated. 
 
@@ -20,14 +20,14 @@ We will highlight the potential applications of these tools toward facilitating 
 
 | Time | Session | Led by |
 |------|---------|--------|
-| 1:00 – 1:15 | **Introduction & Overview of Imageomics** | Wei-Lun (Harry) Chao, PhD |
-| 1:15 – 1:45 | **Tools & ML Background**: an overview of the tools and the machine learning ideas behind them, with use cases across birds, beetles, and butterflies | Caleb Charpentier & Jianyang Gu, PhD |
-| 1:45 – 4:30 | **Hands-on Tutorials** (with breaks) | Assorted |
-| 4:30 – 5:00 | **Open Discussion** | All |
+| 1:00 - 1:15 | **Introduction & Overview of Imageomics** | Wei-Lun (Harry) Chao, PhD |
+| 1:15 - 1:45 | **Tools & ML Background**: an overview of the tools and the machine learning ideas behind them, with use cases across birds, beetles, and butterflies | Caleb Charpentier & Jianyang Gu, PhD |
+| 1:45 - 4:30 | **Hands-on Tutorials** (with breaks) | Assorted |
+| 4:30 - 5:00 | **Open Discussion** | All |
 
 ## Tutorials
 
-Each tutorial walks through a specific Imageomics tool, from setup to hands-on use with example data. Most run end-to-end in Google Colab—open the notebook, make a copy, and run the cells as we go.
+Each tutorial walks through a specific Imageomics tool, from setup to hands-on use with example data. Most run end-to-end in Google Colab. Open the notebook, make a copy, and run the cells as we go.
 
 ### pybioclip
 
@@ -37,10 +37,7 @@ _Led by Matthew Thompson, PhD_
 
 `pybioclip` is a Python package that puts the [BioCLIP family of foundation models](https://imageomics.github.io/bioclip-ecosystem/pages/models.html) a few lines of code away. Use it to predict taxonomic labels for an image, score images against your own list of candidate species, and extract embeddings for downstream analysis.
 
-<!-- COLAB: paste the Google Colab URL for pybioclip below, then uncomment the badge line. -->
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_URL_HERE) -->
-
-_Tutorial notebook coming soon._
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imageomics/evolution-workshop-2026/blob/main/docs/tutorials/notebooks/pybioclip.ipynb)
 
 ### Image Embedding Explorer
 

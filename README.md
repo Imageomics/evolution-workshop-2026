@@ -2,7 +2,7 @@
 
 Tool tutorials for the Imageomics workshop at **Evolution 2026**: **Designing for Discovery: Shaping Imageomics Tools for Biologists**.
 
-**Date:** Saturday, June 20, 2026, 1:00–5:00 PM | **Location:** Cleveland, OH | [Program listing](https://www.xcdsystem.com/evolution/program/o5SCPR5/index.cfm)
+**Date:** Saturday, June 20, 2026, 1:00-5:00 PM | **Location:** Cleveland, OH | [Program listing](https://www.xcdsystem.com/evolution/program/o5SCPR5/index.cfm)
 
 All workshop content lives on a single page: [`docs/index.md`](docs/index.md). Each tool tutorial is a section on that page and generally links out to a Google Colab notebook that contributors add by hand.
 
