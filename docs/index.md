@@ -46,7 +46,7 @@ _Led by Net Zhang_
 
 The Image Embedding Explorer turns a folder of images into an interactive map. Compare embedding models, switch between projection methods, and visually inspect how organisms group by trait and taxonomy. This offers quick way to build intuition for how a model "thinks" about relationships among images and to explore the structure of your data.
 
-This tool runs as a hosted web app, no notebook needed. **[Open the Image Embedding Explorer on Hugging Face Spaces](https://huggingface.co/spaces/netzhang/emb-explorer-demo)**
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg)](https://huggingface.co/spaces/netzhang/emb-explorer-demo)
 
 ### BioCLIP Image Search Lite
 
@@ -56,7 +56,7 @@ _Led by Net Zhang_
 
 BioCLIP Image Search Lite is a lightweight similarity search over the [TreeOfLife](https://huggingface.co/datasets/imageomics/TreeOfLife-200M) collection. Upload a query image and retrieve the closest matches by BioCLIP embedding. This is a fast way to find related organisms and surface visually similar specimens at scale.
 
-This tool runs as a hosted web app, no notebook needed. **[Open BioCLIP Image Search Lite on Hugging Face Spaces](https://huggingface.co/spaces/imageomics/bioclip-image-search-lite)**
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg)](https://huggingface.co/spaces/imageomics/bioclip-image-search-lite)
 
 ### SST (Static Segmentation by Tracking)
 
