@@ -59,10 +59,7 @@ _Led by Net Zhang_
 
 BioCLIP Image Search Lite is a lightweight similarity search over the [TreeOfLife](https://huggingface.co/datasets/imageomics/TreeOfLife-200M) collection. Upload a query image and retrieve the closest matches by BioCLIP embedding. This is a fast way to find related organisms and surface visually similar specimens at scale.
 
-<!-- COLAB: paste the Google Colab URL for BioCLIP Image Search Lite below, then uncomment the badge line. -->
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_URL_HERE) -->
-
-_Tutorial notebook coming soon._
+This tool runs as a hosted web app, no notebook needed. **[Open BioCLIP Image Search Lite on Hugging Face Spaces](https://huggingface.co/spaces/imageomics/bioclip-image-search-lite)**
 
 ### SST (Static Segmentation by Tracking)
 
