@@ -72,10 +72,7 @@ _Led by Fangxun Liu_
 
 Static Segmentation by Tracking (SST) treats a set of specimen images like frames in a video: label the traits on one (or a few) examples, and SST propagates those segmentations to the rest of your collection. This tutorial covers running SST in one-shot and few-shot settings, and extending it to search for images with similar traits.
 
-<!-- COLAB: paste the Google Colab URL for SST below, then uncomment the badge line. -->
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_URL_HERE) -->
-
-_Tutorial notebook coming soon._
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iv3U-ftspiNmbSKbsneoA1Ipk7NpLvm5?usp=sharing)
 
 ## Acknowledgments
 
