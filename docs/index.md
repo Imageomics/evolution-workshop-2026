@@ -46,10 +46,7 @@ _Led by Net Zhang_
 
 The Image Embedding Explorer turns a folder of images into an interactive map. Compare embedding models, switch between projection methods, and visually inspect how organisms group by trait and taxonomy. This offers quick way to build intuition for how a model "thinks" about relationships among images and to explore the structure of your data.
 
-<!-- COLAB: paste the Google Colab URL for the Image Embedding Explorer below, then uncomment the badge line. -->
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_URL_HERE) -->
-
-_Tutorial notebook coming soon._
+This tool runs as a hosted web app, no notebook needed. **[Open the Image Embedding Explorer on Hugging Face Spaces](https://huggingface.co/spaces/netzhang/emb-explorer-demo)**
 
 ### BioCLIP Image Search Lite
 
