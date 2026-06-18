@@ -22,8 +22,7 @@ We will highlight the potential applications of these tools toward facilitating 
 |------|---------|--------|
 | 1:00 - 1:15 | **Introduction & Overview of Imageomics** | Wei-Lun (Harry) Chao, PhD |
 | 1:15 - 1:45 | **Tools & ML Background**: an overview of the tools and the machine learning ideas behind them, with use cases across birds, beetles, and butterflies | Caleb Charpentier & Jianyang Gu, PhD |
-| 1:45 - 4:30 | **Hands-on Tutorials** (with breaks) | Assorted |
-| 4:30 - 5:00 | **Open Discussion** | All |
+| 1:45 - 5:00 | **Hands-on Tutorials** (with breaks and open discussion) | Assorted |
 
 ## Tutorials
 
@@ -80,7 +79,7 @@ _Tutorial notebook coming soon._
 
 ## Acknowledgments
 
-Many people shaped this workshop. Our thanks to everyone who contributed ideas, feedback, and planning, alongside the instructors listed above, including Diane Boghrat, Niko Zuppas, Josef Uyeda, Hilmar Lapp, Elizabeth Campolongo, Jake Beattie, and Tanya Berger-Wolf.
+Many people shaped this workshop. Our thanks to everyone who contributed ideas, feedback, and planning, alongside the instructors listed above, including Diane Boghrat, Niko Zuppas, Josef Uyeda, Hilmar Lapp, Elizabeth Campolongo, Jake Beattie, Sydne Record, Eric Sokol, and Tanya Berger-Wolf.
 
 
 
