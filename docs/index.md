@@ -44,7 +44,7 @@ _Led by Net Zhang_
 
 > Explore sets of image embeddings interactively. Try different models and projections. See which images cluster together or separate.
 
-The Image Embedding Explorer turns a folder of images into an interactive map. Compare embedding models, switch between projection methods, and visually inspect how organisms group by trait and taxonomy. This offers quick way to build intuition for how a model "thinks" about relationships among images and to explore the structure of your data.
+The Image Embedding Explorer turns a folder of images into an interactive map. Compare embedding models, switch between projection methods, and visually inspect how organisms group by trait and taxonomy. This offers a quick way to build intuition for how a model "thinks" about relationships among images and to explore the structure of your data.
 
 [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg)](https://huggingface.co/spaces/netzhang/emb-explorer-demo)
 
