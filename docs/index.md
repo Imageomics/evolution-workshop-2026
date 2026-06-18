@@ -26,7 +26,7 @@ We will highlight the potential applications of these tools toward facilitating 
 
 ## Tutorials
 
-Each tutorial walks through a specific Imageomics tool, from setup to hands-on use with example data. Most run end-to-end in Google Colab. Open the notebook, make a copy, and run the cells as we go.
+Each tutorial walks through a specific Imageomics tool, from setup to hands-on use with example data.
 
 ### pybioclip
 
