@@ -8,6 +8,10 @@ A hands-on workshop at [Evolution 2026](https://www.evolutionmeeting.org/) in Cl
 
 ---
 
+!!! warning "This site's contents may be stale."
+
+    This website was designed for an event that has passed. As we respond to feedback and continuously improve, the artifacts and software referenced within the tutorials may have moved or changed since the event.
+
 ## About
 
 Imageomics is an emerging interdisciplinary field at the crossroads of machine learning (ML), computer vision (CV), and biological sciences. It leverages visual data, from microscopic images of unicellular organisms to videos of megafauna, to extract and analyze biological traits. By grounding ML models in existing scientific knowledge, the emerging field of imageomics aims to make traits computable from images and videos, facilitating insights into the evolution and function of living organisms. 
